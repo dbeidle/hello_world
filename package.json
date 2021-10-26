@@ -1,7 +1,8 @@
 {
-  "name": "yt_search",
+  "name": "hello-world",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hello-world.hitekredneck.io",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
